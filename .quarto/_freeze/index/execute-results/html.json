@@ -1,0 +1,14 @@
+{
+  "hash": "5df9ff6cf57e41225a2548bde0bb4a50",
+  "result": {
+    "markdown": "---\ntitle: \"Graham Lewis\"\n---\n\n\nI'm Graham Lewis. This is my bio, which I assume will contain interesting things such as what I'm up to and where I'm located. In addition to this bio, I will probably have a picture of myself. This picture will have to look somewhat professional. I don't see the utility in having too many words on this page so I will probably leave it here for now.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,29 @@
+---
+title: "Graham Lewis"
+about:
+  template: trestles
+  image: photos/Profile_Photo.png
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/graham_e_lewis
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/grahamelewis/
+    - icon: github
+      text: Github
+      href: https://github.com/grahamlewis212
+---
+
+<section class="about">
+
+Welcome! I am an incoming economics PhD student at the University of Minnesota. 
+
+At Georgia Tech, I was involved with stuff that will last a sentence. 
+
+## Education
+PhD in Economics | University of Minnesota
+
+BS in Economics & Mathematics | Georgia Tech | 2022
+
+</section>

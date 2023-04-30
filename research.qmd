@@ -1,0 +1,14 @@
+---
+title: "Research"
+format:
+  html:
+    css: about.css
+---
+
+State of research interests will go here. Specifically, what fields and sub-fields I'm working on.
+
+
+## Working Papers
+Lewis, G. (2023) "A test of the website; evidence I don't know what I'm doing"
+[GitHub Repo](https://www.google.com/)
+

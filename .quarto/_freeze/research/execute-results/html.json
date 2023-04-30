@@ -1,0 +1,14 @@
+{
+  "hash": "91bc383598048791ef0393b22a20cbc5",
+  "result": {
+    "markdown": "---\ntitle: \"Research\"\n---\n\n\nState of research interests will go here. Specifically, what fields and sub-fields I'm working on.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Graham Lewis",
+    "section": "",
+    "text": "Welcome! I am an incoming economics PhD student at the University of Minnesota.\nAt Georgia Tech, I was involved with stuff that will last a sentence.\n\n\nPhD in Economics | University of Minnesota\nBS in Economics & Mathematics | Georgia Tech | 2022"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "State of research interests will go here. Specifically, what fields and sub-fields I’m working on."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nLewis, G. (2023) “A test of the website; evidence I don’t know what I’m doing” GitHub Repo"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "As a teacher, I tailor my teaching style to the material being covered. Some techniques are best conveyed with examples and practice problems, others are suited more for detailed explanation and analysis. All lessons require careful preparation. A central component of my teaching style is reinforcement, I strive to create an engaging classroom where students have multiple passes through each concept. This is enhanced through visual representations, intuitive explanations, and practice problems.\nProbably another paragraph."
+  },
+  {
+    "objectID": "teaching.html#georgia-tech",
+    "href": "teaching.html#georgia-tech",
+    "title": "Teaching",
+    "section": "Georgia Tech",
+    "text": "Georgia Tech\n\n\n\n\n\nCourse\nTitle\nSemester\nRole\n\n\n\n\nMATH 2552\nDifferential Equations\nFall 2022\nTA\n\n\nMATH 2550\nIntro. to Multivariable Calculus\nSpring 2022\nTA"
+  }
+]

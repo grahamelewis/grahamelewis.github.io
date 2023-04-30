@@ -1,0 +1,11 @@
+{
+  "hash": "43ce140da16d86dbfe7de28c24e8b510",
+  "result": {
+    "markdown": "---\ntitle: \"Teaching\"\nexecute:\n  echo: false\n---\n\nAs a teacher, I tailor my teaching style to the material being covered. Some techniques are best conveyed with examples and practice problems, others are suited more for detailed explanation and analysis. All lessons require careful preparation. A central component of my teaching style is reinforcement, I strive to create an engaging classroom where students have multiple passes through each concept. This is enhanced through visual representations, intuitive explanations, and practice problems.\n\nProbably another paragraph.\n\n## Georgia Tech\n\n::: {.cell execution_count=1}\n\n::: {.cell-output .cell-output-display execution_count=1}\nCourse     Title                             Semester     Role\n---------  --------------------------------  -----------  ------\nMATH 2552  Differential Equations            Fall 2022    TA\nMATH 2550  Intro. to Multivariable Calculus  Spring 2022  TA\n:::\n:::\n\n\n",
+    "supporting": [
+      "teaching_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
