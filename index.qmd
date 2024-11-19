@@ -4,15 +4,12 @@ about:
   template: trestles
   image: photos/Profile_Photo.png
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/graham_e_lewis
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/grahamelewis/
     - icon: github
       text: Github
-      href: https://github.com/grahamlewis212
+      href: https://github.com/grahamelewis
 ---
 
 <section class="about">

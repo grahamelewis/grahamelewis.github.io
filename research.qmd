@@ -5,8 +5,8 @@ format:
     css: about.css
 ---
 
-Macroeconomics, monetary economics, labor economics
+macroeconomics, labor and urban economics
 
-## Working Papers
+## Published Papers
 
-"Work from home, polarization, and new residential construction during COVID-19" (joint with Dylan Brewer)
+"[Work from home, polarization, and new residential construction during COVID-19](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2397566#abstract)," with Dylan Brewer. Applied Economics Letters
