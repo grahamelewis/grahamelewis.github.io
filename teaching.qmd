@@ -16,7 +16,7 @@ ECON 3023, 3024: Intermediate Macroeconomics
 :::
 
 ::: course-info
-Semester: Fall, 2024
+Semester: Spring 2025, Fall 2024
 :::
 
 ::: course-info
@@ -38,7 +38,7 @@ ECON 3011, 3012: Intermediate Microeconomics
 :::
 
 ::: course-info
-Semester: Fall, 2024
+Semester: Fall 2024
 :::
 
 ::: course-info
@@ -54,14 +54,13 @@ Behavior of households, firms, and industries under competitive/monopolistic con
 
 <hr>
 
-
 :::::: course-block
 ::: course-title
 ECON 3102: Intermediate Macroeconomics
 :::
 
 ::: course-info
-Semester: Summer, 2024
+Semester: Summer 2024
 :::
 
 ::: course-info
@@ -85,7 +84,7 @@ ECON 3101: Intermediate Microeconomics
 :::
 
 ::: course-info
-Semester: Summer, 2024
+Semester: Summer 2024
 :::
 
 ::: course-info
@@ -109,7 +108,7 @@ ECON 1102: Principles of Macroeconomics
 :::
 
 ::: course-info
-Semester: Spring, 2024
+Semester: Spring 2024
 :::
 
 ::: course-info
@@ -133,7 +132,7 @@ ECON 1101: Principles of Microeconomics
 :::
 
 ::: course-info
-Semester: Fall, 2023
+Semester: Fall 2023
 :::
 
 ::: course-info
@@ -157,7 +156,7 @@ MATH 2552: Differential Equations
 :::
 
 ::: course-info
-Semester: Fall, 2022
+Semester: Fall 2022
 :::
 
 ::: course-info
@@ -181,7 +180,7 @@ MATH 2550: Introduction to Multivariable Calculus
 :::
 
 ::: course-info
-Semester: Spring, 2022
+Semester: Spring 2022
 :::
 
 ::: course-info
