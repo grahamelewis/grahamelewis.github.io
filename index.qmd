@@ -10,6 +10,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/grahamelewis
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?view_op=list_works&hl=en&user=Med44QQAAAAJ
 ---
 
 <section class="about">
