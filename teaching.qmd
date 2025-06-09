@@ -4,11 +4,50 @@ format:
   html:
     includes:
       in_header: "style.css"
+    css: about.css
 ---
+
+
+<!-- Horizontal line between course blocks -->
 
 <hr>
 
-<!-- Horizontal line between course blocks -->
+:::::: course-block
+::: course-title
+ECON 3023: Intermediate Macroeconomics
+:::
+
+::: course-info
+**Semester:** Summer 2025  
+**Instructor:** Graham Lewis
+:::
+
+<p class="course-description">
+Determinants of national income, employment, and price level; effects of monetary and fiscal policies; emphasis on a general equilibrium approach.
+</p>
+
+::: course-materials
+<details>
+<summary><strong>Lecture Slides</strong></summary>
+
+- [Lecture 1 - Introduction](lectures/lecture1_Introduction.pdf){target="_blank"} 
+- [Lecture 2 - Production](lectures/lecture2_Production.pdf){target="_blank"}
+
+</details>
+
+<details>
+<summary><strong>Homework Assignments️</strong></summary>
+
+<!--- [HW 1 – Production and Solow](homeworks/3023_hw1.pdf){target="_blank"}  -->
+
+
+</details>
+:::
+::::::
+
+<hr>
+
+## Teaching Assistant
 
 :::::: course-block
 ::: course-title
@@ -38,7 +77,7 @@ ECON 3011, 3012: Intermediate Microeconomics
 :::
 
 ::: course-info
-Semester: Fall 2024
+Semester: Fall 2024, Summer 2024
 :::
 
 ::: course-info
@@ -54,54 +93,8 @@ Behavior of households, firms, and industries under competitive/monopolistic con
 
 <hr>
 
-:::::: course-block
-::: course-title
-ECON 3102: Intermediate Macroeconomics
-:::
-
-::: course-info
-Semester: Summer 2024
-:::
-
-::: course-info
-University of Minnesota (TA)
-:::
-
-<p class="course-description">
-
-Determinants of national income, employment, and price level; effects of monetary and fiscal policies; emphasis on a general equilibrium approach.
-
-</p>
-::::::
-
-<hr>
 
 <!-- Horizontal line between course blocks -->
-
-:::::: course-block
-::: course-title
-ECON 3101: Intermediate Microeconomics
-:::
-
-::: course-info
-Semester: Summer 2024
-:::
-
-::: course-info
-University of Minnesota (TA)
-:::
-
-<p class="course-description">
-
-Behavior of households, firms, and industries under competitive/monopolistic conditions.
-
-</p>
-::::::
-
-<hr>
-
-<!-- Horizontal line between course blocks -->
-
 :::::: course-block
 ::: course-title
 ECON 1102: Principles of Macroeconomics
@@ -123,8 +116,6 @@ Aggregate consumption, saving, investment, and national income. Role of money, b
 ::::::
 
 <hr>
-
-<!-- Horizontal line between course blocks -->
 
 :::::: course-block
 ::: course-title
@@ -148,7 +139,6 @@ Microeconomic behavior of consumers, firms, and markets in domestic and world ec
 
 <hr>
 
-<!-- Horizontal line between course blocks -->
 
 :::::: course-block
 ::: course-title
@@ -172,8 +162,6 @@ Methods for obtaining numerical and analytic solutions of elementary differentia
 
 <hr>
 
-<!-- Horizontal line between course blocks -->
-
 :::::: course-block
 ::: course-title
 MATH 2550: Introduction to Multivariable Calculus
@@ -196,4 +184,3 @@ An introduction to multivariable calculus through vectors in 3D, curves, functio
 
 <hr>
 
-<!-- Horizontal line between course blocks -->

@@ -31,3 +31,8 @@ body {
     margin-top: 1em; /* Space above the line */
     margin-bottom: 1em; /* Space below the line */
 }
+
+strong {
+  color: #000 !important;
+  font-weight: 700 !important;
+}

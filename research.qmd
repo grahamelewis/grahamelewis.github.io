@@ -5,7 +5,7 @@ format:
     css: about.css
 ---
 
-macroeconomics, labor and urban economics
+Empirical macroeconomics, inequality, urban, health, consumer finance
 
 ## Published Papers
 
