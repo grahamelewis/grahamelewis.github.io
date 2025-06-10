@@ -7,7 +7,6 @@ format:
     css: about.css
 ---
 
-
 <!-- Horizontal line between course blocks -->
 
 <hr>
@@ -18,28 +17,32 @@ ECON 3023: Intermediate Macroeconomics
 :::
 
 ::: course-info
-**Semester:** Summer 2025  
+**Semester:** Summer 2025\
 **Instructor:** Graham Lewis
 :::
 
 <p class="course-description">
+
 Determinants of national income, employment, and price level; effects of monetary and fiscal policies; emphasis on a general equilibrium approach.
+
 </p>
 
 ::: course-materials
 <details>
+
 <summary><strong>Lecture Slides</strong></summary>
 
-- [Lecture 1 - Introduction](lectures/lecture1_Introduction.pdf){target="_blank"} 
-- [Lecture 2 - Production](lectures/lecture2_Production.pdf){target="_blank"}
+-   [Lecture 1 - Introduction](lectures/lecture1_Introduction.pdf){target="_blank"}
+-   [Lecture 2 - Production](lectures/lecture2_Production.pdf){target="_blank"}
+-   [Lecture 3 - Solow](lectures/lecture3_Solow.pdf){target="_blank"}
 
 </details>
 
 <details>
+
 <summary><strong>Homework Assignments️</strong></summary>
 
-<!--- [HW 1 – Production and Solow](homeworks/3023_hw1.pdf){target="_blank"}  -->
-
+- [HW 1 – Production and Solow](homeworks/hw1.pdf){target="_blank"}
 
 </details>
 :::
@@ -93,8 +96,8 @@ Behavior of households, firms, and industries under competitive/monopolistic con
 
 <hr>
 
-
 <!-- Horizontal line between course blocks -->
+
 :::::: course-block
 ::: course-title
 ECON 1102: Principles of Macroeconomics
@@ -139,7 +142,6 @@ Microeconomic behavior of consumers, firms, and markets in domestic and world ec
 
 <hr>
 
-
 :::::: course-block
 ::: course-title
 MATH 2552: Differential Equations
@@ -183,4 +185,3 @@ An introduction to multivariable calculus through vectors in 3D, curves, functio
 ::::::
 
 <hr>
-
