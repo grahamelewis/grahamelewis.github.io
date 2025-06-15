@@ -35,6 +35,7 @@ Determinants of national income, employment, and price level; effects of monetar
 -   [Lecture 1 - Introduction](lectures/lecture1_Introduction.pdf){target="_blank"}
 -   [Lecture 2 - Production](lectures/lecture2_Production.pdf){target="_blank"}
 -   [Lecture 3 - Solow](lectures/lecture3_Solow.pdf){target="_blank"}
+-   [Lecture 4 - Ideas](lectures/lecture4_Ideas.pdf){target="_blank"}
 
 </details>
 
