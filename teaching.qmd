@@ -49,6 +49,7 @@ Determinants of national income, employment, and price level; effects of monetar
 
 - [HW 1 – Production and Solow](homeworks/hw1.pdf){target="_blank"}
 - [HW 2 – Romer and Human Capital](homeworks/hw2.pdf){target="_blank"}
+- [HW 3 – Unmeasured Capital and Labor Supply](homeworks/hw3.pdf){target="_blank"}
 
 </details>
 :::
