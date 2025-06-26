@@ -40,6 +40,7 @@ Determinants of national income, employment, and price level; effects of monetar
 -   [Lecture 6 - Human Capital](lectures/lecture6_HumanCapital.pdf){target="_blank"}
 -   [Lecture 7 - Unmeasured Capital](lectures/lecture7_UnmeasuredCapital.pdf){target="_blank"}
 -   [Lecture 8 - Labor Supply](lectures/lecture8_LaborSupply.pdf){target="_blank"}
+-   [Lecture 9 - Taxes](lectures/lecture9_Taxes.pdf){target="_blank"}
 
 </details>
 
