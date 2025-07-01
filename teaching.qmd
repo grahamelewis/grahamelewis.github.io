@@ -42,6 +42,7 @@ Determinants of national income, employment, and price level; effects of monetar
 -   [Lecture 8 - Labor Supply](lectures/lecture8_LaborSupply.pdf){target="_blank"}
 -   [Lecture 9 - Taxes](lectures/lecture9_Taxes.pdf){target="_blank"}
 -   [Lecture 10 - Transfers](lectures/lecture10_Transfers.pdf){target="_blank"}
+-   [Lecture 11 - Equilibrium](lectures/lecture11_Equilibrium.pdf){target="_blank"}
 
 </details>
 
