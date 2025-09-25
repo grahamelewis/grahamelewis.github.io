@@ -16,9 +16,9 @@ about:
 
 <section class="about">
 
-I am a second year PhD student at the University of Minnesota. My current research focuses are on labor economics and inequality.
+I am a third year PhD student at the University of Minnesota. My current research focuses are on urban economics and firm diversification.
 
-I graduated from the Georgia Institute of Technology, where I double-majored in economics and mathematics with a minor in Chinese.
+I graduated from Georgia Institute of Technology, where I double-majored in economics and mathematics with a minor in Chinese.
 
 If you have any questions about my research or want to reach out, I'd love to talk to you! Feel free to reach out via email (lewi1837 at umn dot edu)
 
