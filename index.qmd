@@ -16,7 +16,7 @@ about:
 
 <section class="about">
 
-I am a third year PhD student at the University of Minnesota. My current research focuses are on urban economics and firm diversification.
+I am a third year PhD student at the University of Minnesota. My current research focuses are on urban economics and inequality.
 
 I graduated from Georgia Institute of Technology, where I double-majored in economics and mathematics with a minor in Chinese.
 

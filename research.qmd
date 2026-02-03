@@ -5,8 +5,16 @@ format:
     css: about.css
 ---
 
-Empirical macroeconomics, inequality, urban, health, consumer finance
+Empirical macroeconomics, urban economics, inequality
 
 ## Published Papers
 
 "[Work from home, polarization, and new residential construction during COVID-19](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2397566#abstract)," with Dylan Brewer. Applied Economics Letters
+
+## Work in Progress
+
+"On The Welfare Cost of Idiosyncratic Risk," with Anmol Bhandari.
+
+"Screening by Payment: A Theory of Eviction," with Ethan Cohen.
+
+"The Macroeconomics of an Aging Innovative Workforce," with Jason Hall.
