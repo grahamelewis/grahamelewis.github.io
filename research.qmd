@@ -5,7 +5,7 @@ format:
     css: about.css
 ---
 
-Empirical macroeconomics, urban economics, inequality
+Empirical macroeconomics, consumption dynamics, labor economics, urban economics
 
 ## Published Papers
 
