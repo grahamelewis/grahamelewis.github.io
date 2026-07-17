@@ -7,6 +7,10 @@
 /_site/
 .DS_Store
 
+# Personal notes, not for the website
+part_time_job_targets.txt
+summer_2026_internships.md
+
 # LaTeX build artifacts
 *.aux
 *.log
