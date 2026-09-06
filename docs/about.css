@@ -15,17 +15,3 @@ a:hover {
   color: #7a0117;
 }
 
-.cp-shot img {
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  box-shadow: 0 6px 24px -10px rgba(0, 0, 0, 0.35);
-  max-width: 100%;
-  height: auto;
-}
-
-.cp-shot figcaption {
-  color: #555;
-  font-size: 14px;
-  margin-top: 0.5em;
-  text-align: center;
-}

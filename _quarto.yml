@@ -14,8 +14,6 @@ website:
       - research.qmd
       - cv.qmd
       - teaching.qmd
-      - href: agentic_ide.qmd
-        text: Agentic IDE
   page-navigation: true
   
 format:
