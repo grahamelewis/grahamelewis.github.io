@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Graham Lewis - Research</title>
+<title>Graham Lewis - Agentic IDE</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./research.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./agentic_ide.html" rel="" target="">
+    <a class="nav-link active" href="./agentic_ide.html" rel="" target="" aria-current="page">
  <span class="menu-text">Agentic IDE</span></a>
   </li>  
 </ul>
@@ -106,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Agentic IDE</h1>
 </div>
 
 
@@ -121,19 +121,27 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Empirical macroeconomics, consumption dynamics, labor economics, urban economics</p>
-<section id="published-papers" class="level2">
-<h2 data-anchor-id="published-papers">Published Papers</h2>
-<p>“<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2397566#abstract">Work from home, polarization, and new residential construction during COVID-19</a>,” with Dylan Brewer. Applied Economics Letters</p>
-</section>
-<section id="work-in-progress" class="level2">
-<h2 data-anchor-id="work-in-progress">Work in Progress</h2>
-<p>“On The Welfare Cost of Idiosyncratic Risk,” with Anmol Bhandari.</p>
-<p>“Screening by Payment: A Theory of Eviction,” with Ethan Cohen.</p>
-<p>“The Macroeconomics of an Aging Innovative Workforce,” with Jason Hall.</p>
+<p><strong>Central Planner</strong> is an open-source IDE I built (with Claude) to host my day-to-day research. Projects are partitioned into tasks (model formulation, computational solution, data cleaning) with the intensity of AI usage on each task chosen by the user (auto, plan, cooperative, manual).</p>
+<p>The part I rely on most is how context moves between sessions. Every task carries pinned files and a lineage. When a task finishes, its session writes a structured handoff that records the summary, the artifacts, and the decisions taken. Downstream tasks inherit those handoffs, so a new session opens already knowing the project’s living abstract, a primer for its category of work, the conclusions of its upstream tasks, and the exact files pinned to it. Claude picks up mid-project, weeks later and in a fresh conversation, with the state of play already in hand.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="photos/central_planner_workbench.png" class="cp-shot img-fluid figure-img"></p>
+<figcaption class="figure-caption">The workbench: the session’s console in the center, the artifact it produced on the right, pinned context and the week’s ledger in the sidebar.</figcaption>
+</figure>
+</div>
+<p>Around each session sits the daily machinery. New HTML and PDF artifacts render inside the IDE for quick reading, a runner executes Julia, Python, R, and SQL files with output streaming into a tab, and a built-in LaTeX editor recompiles the draft on every save, with completions for citations and labels and jumps between source and PDF in both directions.</p>
+<p>Sessions can also fan out into teams of agents, and the console narrates what each one is working on as it goes. Everything stays reversible. Each turn that edits files records a change log with full inline diffs and one-click rewind, and a git panel keeps every project’s repository status in view, with pull and commit-and-push a click away.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="photos/central_planner_console.png" class="cp-shot img-fluid figure-img"></p>
+<figcaption class="figure-caption">Two subagents working in parallel while a Julia job runs under a live status card.</figcaption>
+</figure>
+</div>
+<p>None of it is chained to one machine. I host the server on a desktop and reach it from my laptop and phone over a private <a href="https://tailscale.com">Tailscale</a> network, and the same server ships a phone view for checking sessions, adding tasks, and reading artifacts from wherever I am. The repo includes a guide that walks through the whole setup.</p>
+<p>The code lives on <a href="https://github.com/grahamelewis/central-planner">GitHub</a>, and a visual tour is <a href="https://grahamelewis.github.io/central-planner/">here</a>. If you give it a try, I would greatly appreciate feedback, whether on what breaks, what is missing, or what would make it more useful for your own work.</p>
+<p><em>Screenshots show a staged demo instance with fictional data. Central Planner is an independent project, unaffiliated with Anthropic.</em></p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
